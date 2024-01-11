@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>fd-gentoo</name>
+      <description lang="en">Federico Justus Denkena's gentoo overlay</description>
+      <homepage>https://git.denkena-consulting.com/fdenkena/fd-gentoo</homepage>
+        <owner type="person">
+            <name>Federico Justus Denkena</name>
+            <email>federico.denkena@posteo.de</email>
+        </owner>
+        <source type="git">git://git.denkena-consulting.com/fdenkena/fd-gentoo.git</source>
+        <feed>https://git.denkena-consulting.com/fdenkena/fd-gentoo/commits/master.atom</feed>
+  </repo>
+</repositories>
