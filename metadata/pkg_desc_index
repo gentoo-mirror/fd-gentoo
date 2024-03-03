@@ -1,5 +1,7 @@
 acct-group/apache_exporter 0-r1: Group used for the apache_exporter prometheus plugin
+acct-group/keycloak 0: Group for the keycloak daemon
 acct-user/apache_exporter 0-r1: User for the apache_exporter prometheus plugin
+acct-user/keycloak 0: User for the keycloak daemon
 app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
 www-apps/grafana-bin 10.2.3: Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 www-apps/invidious 2024.01.13: Invidious is an alternative front-end to YouTube
