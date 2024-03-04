@@ -5,4 +5,4 @@ acct-user/keycloak 0: User for the keycloak daemon
 app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
 www-apps/grafana-bin 10.2.3: Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 www-apps/invidious 2024.01.13: Invidious is an alternative front-end to YouTube
-www-apps/keycloak-bin 23.0.7: Open Source Identity and Access Management
+www-apps/keycloak-bin 23.0.5 23.0.7: Open Source Identity and Access Management
