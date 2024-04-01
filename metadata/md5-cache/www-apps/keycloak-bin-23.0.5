@@ -1,0 +1,13 @@
+BDEPEND=virtual/pkgconfig
+DEFINED_PHASES=config install postinst preinst
+DESCRIPTION=Open Source Identity and Access Management
+EAPI=8
+HOMEPAGE=https://github.com/keycloak/keycloak
+INHERIT=systemd
+KEYWORDS=~amd64
+LICENSE=Apache-2.0
+RDEPEND=|| ( >=dev-java/openjdk-jre-bin-11 >=virtual/jdk-11 ) acct-user/keycloak acct-group/keycloak
+SLOT=0
+SRC_URI=https://github.com/keycloak/keycloak/releases/download/23.0.5/keycloak-23.0.5.tar.gz -> keycloak-bin-23.0.5.tar.gz
+_eclasses_=toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	systemd	c8b03e8df84486aa991d4396686e8942
+_md5_=609b489ab4697644f71330a10b7ccc04
