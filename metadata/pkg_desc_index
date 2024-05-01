@@ -1,7 +1,10 @@
 acct-group/apache_exporter 0-r1: Group used for the apache_exporter prometheus plugin
+acct-group/dkimsocket 0: Group used to share the OpenDKIM socket
 acct-group/keycloak 0: Group for the keycloak daemon
 acct-user/apache_exporter 0-r1: User for the apache_exporter prometheus plugin
 acct-user/keycloak 0: User for the keycloak daemon
+acct-user/opendkim 0-r4: User for OpenDKIM
+acct-user/postfix 0-r4: user for postfix daemon
 app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
 www-apps/grafana-bin 10.2.3: Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 www-apps/invidious 2024.04.02: Invidious is an alternative front-end to YouTube
