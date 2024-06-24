@@ -54,7 +54,7 @@ RDEPEND="${COMMON_DEPEND}
 "
 DEPEND="${COMMON_DEPEND}
 	dev-crystal/athena-negotiation
-	<dev-crystal/crystal-db-0.12.0
+	<dev-crystal/crystal-db-0.13.0
 	<dev-crystal/crystal-pg-0.27.0
 	dev-crystal/crystal-sqlite3
 	~dev-crystal/kemal-1.1.2
