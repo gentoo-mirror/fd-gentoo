@@ -7,5 +7,5 @@ acct-user/opendkim 0-r4: User for OpenDKIM
 acct-user/postfix 0-r4: user for postfix daemon
 app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
 www-apps/grafana-bin 10.2.3: Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
-www-apps/invidious 2024.08.04: Invidious is an alternative front-end to YouTube
+www-apps/invidious 2024.08.25: Invidious is an alternative front-end to YouTube
 www-apps/keycloak-bin 23.0.5 23.0.7: Open Source Identity and Access Management
