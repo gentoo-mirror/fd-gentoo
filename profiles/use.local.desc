@@ -2,3 +2,9 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+app-containers/containerd:btrfs - Support for BTRFS snapshot driver
+app-containers/containerd:cri - Support for Kubernetes CRI
+app-containers/containerd:device-mapper - Support for device mapper snapshot driver
+app-containers/runc:kmem - Enable Kernel Memory Accounting.
+www-apps/gitea:acct - User and group management via acct-*/git packages
+www-apps/gitea:gogit - (EXPERIMENTAL) Use go-git variants of Git commands.
