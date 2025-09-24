@@ -12,5 +12,5 @@ app-emulation/qubes-libvchan-xen 4.2.3 4.2.4: QubesOS libvchan cross-domain comm
 app-metrics/apache_exporter 0.13.3: Prometheus exporter for apache metrics
 www-apps/gitea 1.24.3: A painless self-hosted Git service
 www-apps/grafana-bin 10.2.3: Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
-www-apps/invidious 2024.08.25: Invidious is an alternative front-end to YouTube
+www-apps/invidious 2025.09.24: Invidious is an alternative front-end to YouTube
 www-apps/keycloak-bin 23.0.5 23.0.7: Open Source Identity and Access Management
